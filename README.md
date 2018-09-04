@@ -26,7 +26,7 @@ hhttp://satyajiit.xyz/download.php?name=Encrypto&type=app
 * Very Simple App.
 
 
-
+&nbsp;
 
 ### MIT License
 
