@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowNoTitle">true</item>
+
+    </style>
+
+
+    <style name="login" parent="android:Theme.DeviceDefault.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">Logging You in...</item>
+
+        <item name="DialogSpotColor">@color/green</item>
+        <item name="DialogSpotCount">7</item>
+    </style>
+
+    <style name="regis" parent="android:Theme.DeviceDefault.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">Creating Your Love Story...:P</item>
+
+        <item name="DialogSpotColor">@color/red</item>
+        <item name="DialogSpotCount">7</item>
+    </style>
+
+    <style name="upd" parent="android:Theme.DeviceDefault.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">Checking for updates...</item>
+
+        <item name="DialogSpotColor">@color/yello</item>
+        <item name="DialogSpotCount">7</item>
+    </style>
+
+
+    <style name="fetch" parent="android:Theme.DeviceDefault.Dialog">
+        <item name="DialogTitleAppearance">@android:style/TextAppearance.Medium</item>
+        <item name="DialogTitleText">Decrypting....</item>
+
+        <item name="DialogSpotColor">@color/yello</item>
+        <item name="DialogSpotCount">7</item>
+    </style>
+
+</resources>
