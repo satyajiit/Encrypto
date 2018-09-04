@@ -30,7 +30,7 @@ hhttp://satyajiit.xyz/download.php?name=Encrypto&type=app
 
 ### MIT License
 
-* Copyright (c) 2018 SATYAJIT NETWORKS http://SatyaJiit.xyZ
+Copyright (c) 2018 SATYAJIT NETWORKS http://SatyaJiit.xyZ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
