@@ -1,7 +1,7 @@
 # Encrypto
 
 Download The App :
-http://satyajiit.xyz/download.php?name=Encrypto&type=app
+https://satyajiit.xyz/project-details.php?project=Encrypto&type=apk
 
 * A Stenography Project on Encryption and Decryption.
 * Hide Messages Inside Images.
